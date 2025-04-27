@@ -78,7 +78,7 @@ This project focuses on visualizing multi-spectral satellite imagery data and de
 ## 📬 Contact
 
 **Vinit Singh Pathir**  
-[LinkedIn](https://www.linkedin.com/in/vinit-pathir/)  
+[LinkedIn](https://www.linkedin.com/in/vinit-singh-cse/)  
 Feel free to reach out if you want to collaborate on remote sensing, data science, or climate projects!
 
 ---
