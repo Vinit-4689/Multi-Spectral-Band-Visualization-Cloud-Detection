@@ -88,4 +88,4 @@ Feel free to reach out if you want to collaborate on remote sensing, data scienc
 This project is open-source and free to use under the MIT License.
 
 
-# 🚀 Thank you for visiting the project!
+## 🚀 Thank you for visiting the project!
