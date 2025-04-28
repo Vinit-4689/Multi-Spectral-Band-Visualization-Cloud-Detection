@@ -1,3 +1,5 @@
+![Multi Spectral band visualization banner](https://github.com/user-attachments/assets/0a45eca6-cfd5-4564-ac8d-db3f42115b1d)
+
 # Project Explainer: Multi-Spectral Band Visualization Before Cloud Detection
 
 ## 🌍 Overview
